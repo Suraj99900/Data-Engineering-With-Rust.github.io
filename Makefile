@@ -10,6 +10,9 @@ test:
 build:
 	cargo build --release
 
+check:
+	cargo check
+
 run:
 	cargo run
 
